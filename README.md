@@ -9,7 +9,7 @@ Started the Google IT Support Professional Certificate around March/April 2025. 
 ### Course Progress
 - [x] Technical Support Fundamentals
 - [x] Networking
-- [ ] Operating Systems
+- [x] Operating Systems
 - [ ] System Admin & IT Infrastructure
 - [ ] IT Security
 
